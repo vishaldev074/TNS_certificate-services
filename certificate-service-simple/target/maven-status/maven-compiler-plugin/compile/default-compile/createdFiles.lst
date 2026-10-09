@@ -1,0 +1,9 @@
+com\placement\certificate\controller\CertificateController.class
+com\placement\certificate\repository\CertificateRepository.class
+com\placement\certificate\entity\College.class
+com\placement\certificate\service\CertificateServiceImpl.class
+com\placement\certificate\controller\CollegeController.class
+com\placement\certificate\service\CertificateService.class
+com\placement\certificate\CertificateServiceApplication.class
+com\placement\certificate\repository\CollegeRepository.class
+com\placement\certificate\entity\Certificate.class
